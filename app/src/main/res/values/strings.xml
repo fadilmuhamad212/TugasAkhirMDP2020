@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kisah 25 Nabi</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">About</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="tentang_developer">AZHAR RIVALDI</string>
+    <string name="tentang_email">ZZZ@gmail.com</string>
+    <string name="tentang_blog">http://rivaldi48.blogspot.com</string>
+    <string name="tentang_deskripsi">Aplikasi ini bla bla bla bla bla bla bla</string>
+    <string name="tentang_versi">Versi 1.0</string>
+    <string name="about" />
+</resources>
